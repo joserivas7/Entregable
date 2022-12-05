@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Clase21.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/jose.rivas/Desktop/entorno2/Clase21/Plantillas"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
