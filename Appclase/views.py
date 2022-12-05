@@ -19,3 +19,4 @@ def familiares (request):
     contexto=Context(fami)
     documento=template.render(contexto)
     return HttpResponse (documento)
+    
